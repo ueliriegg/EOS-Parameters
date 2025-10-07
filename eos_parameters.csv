@@ -3428,6 +3428,12 @@ parameter_type,parameter_type_text_short,parameter_type_text_long,parameter_cate
 39797,Fixture_Identify,Fixture_Identify,7
 39798,Fixture_Settings_Save,Fixture_Settings_Save,5
 39799,Pixel_Mapping_Invert_X_2,Pixel_Mapping_Invert_X_2,4
+39800,LED_Engine_Effect_Level_2,LED_Engine_Effect_Level_2,5
+39801,LED_Engine_Effect_Level_3,LED_Engine_Effect_Level_3,5
+39802,LED_Engine_Effect_Level_4,LED_Engine_Effect_Level_4,5
+39803,LED_Engine_Effect_Level_5,LED_Engine_Effect_Level_5,5
+39804,LED_Engine_Effect_Level_6,LED_Engine_Effect_Level_6,5
+39805,Cooling_Fan_10,Cooling_Fan_10,3
 40062,Diffusion_Mode_2,Diffusion_Mode_2,5
 40349,Color_Wheel_Select_Blink_3,Color_Wheel_Select_Blink_3,3
 40350,Optical_Mode_2,Optical_Mode_2,5
