@@ -103,6 +103,7 @@ graph TD;
   ALL --> Focus;
   ALL --> Color;
   ALL --> Image;
+  ALL --> Form;
   ALL --> Shutter;
   ALL --> Control;
 
