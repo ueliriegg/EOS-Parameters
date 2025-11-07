@@ -4354,6 +4354,13 @@ parameter_type,parameter_type_text_short,parameter_type_text_long,parameter_cate
 57678,Edge_Color_Correction,Edge_Color_Correction,5
 57685,Scrim,Scrim,5
 57920,Scrim_Index_Rotate,Scrim_Index_Rotate,5
+57921,Pan_Rotate_3,Pan_Rotate_3,2
+57922,Pan_Rotate_5,Pan_Rotate_5,2
+57923,Pan_Rotate_6,Pan_Rotate_6,2
+57924,Pan_Mode_3,Pan_Mode_3,2
+57925,Pan_Mode_4,Pan_Mode_4,2
+57926,Pan_Mode_5,Pan_Mode_5,2
+57927,Pan_Mode_6,Pan_Mode_6,2
 58214,Lamp_Control_3,Lamp_Control_3,7
 58537,Strobe_Mode_4,Strobe_Mode_4,5
 58851,Gobo_Select_4,Gobo_Select_4,4
