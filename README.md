@@ -92,12 +92,13 @@ $ParamType            3 2 Tilt
 
 ```mermaid
 graph TD;
-  ALL --> Intensity (1);
-  ALL --> Focus (2);
-  ALL --> Color (3);
-  ALL --> Image (4);
-  ALL --> Form (5);
-  ALL --> Shutter (6);
-  ALL --> Control (7);
-
+  ALL --> Reg[Regular channel parameters];
+  ALL --> LC[Lamp Controls]
+  Reg --> CatI([1:<br>Intensity]);
+  Reg --> CatF([2:<br>Focus]);
+  Reg --> CatC([3:<br>Color]);
+  Reg --> CatBI([4:<br>Beam<br>Image]);
+  Reg --> CatBF([5:<br>Beam<br>Form]);
+  Reg --> CatBS([6:<br>Beam<br>Shutter]);
+  LC --> CatLC([7:<br>Control]);
 ```
