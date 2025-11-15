@@ -92,12 +92,12 @@ $ParamType            3 2 Tilt
 
 ```mermaid
 graph TD;
-  ALL --> Intensity (1);
-  ALL --> Focus (2);
-  ALL --> Color (3);
-  ALL --> Image (4);
-  ALL --> Form (5);
-  ALL --> Shutter (6);
-  ALL --> Control (7);
+  ALL --> Intensity_(1);
+  ALL --> Focus_(2);
+  ALL --> Color_(3);
+  ALL --> Image_(4);
+  ALL --> Form_(5);
+  ALL --> Shutter_(6);
+  ALL --> Control_(7);
 
 ```
