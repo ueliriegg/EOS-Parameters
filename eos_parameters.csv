@@ -4175,8 +4175,71 @@ parameter_type,parameter_type_text_short,parameter_type_text_long,parameter_cate
 52585,Pixel_Mask_Effect_Parameter_17,Pixel_Mask_Effect_Parameter_17,4
 52586,Pixel_Mask_Effect_Parameter_18,Pixel_Mask_Effect_Parameter_18,4
 52587,Pixel_Mask_Effect_Parameter_19,Pixel_Mask_Effect_Parameter_19,4
+52588,Image_Position_Macro_Rate,Image_Position_Macro_Rate,5
+52589,Keystone_Macro_Rate,Keystone_Macro_Rate,5
+52590,CTO_3, CTO_3,3
+52591,CTO_4, CTO_4,3
+52593,CTO_5, CTO_5,3
+52595,CTO_6, CTO_6,3
+52597,CTO_7, CTO_7,3
+52598,CTO_8, CTO_8,3
+52600,CTO_9, CTO_9,3
+52602,CTO_10, CTO_10,3
+52604,CTO_11, CTO_11,3
+52606,CTO_12, CTO_12,3
+52608,CTO_13, CTO_13,3
+52612,CTO_14, CTO_14,3
+52614,CTO_15, CTO_15,3
+52616,CTO_16, CTO_16,3
+52618,CTO_17, CTO_17,3
+52620,CTO_18, CTO_18,3
+52622,CTO_19, CTO_19,3
+52592,Color_Wheel_Select_Blink_4,Color_Wheel_Select_Blink_4,3
+52594,Color_Wheel_Select_Blink_5,Color_Wheel_Select_Blink_5,3
+52596,Color_Wheel_Select_Blink_6,Color_Wheel_Select_Blink_6,3
+52599,Color_Wheel_Select_Blink_8,Color_Wheel_Select_Blink_8,3
+52601,Color_Wheel_Select_Blink_9,Color_Wheel_Select_Blink_9,3
+52603,Color_Wheel_Select_Blink_10,Color_Wheel_Select_Blink_10,3
+52605,Color_Wheel_Select_Blink_11,Color_Wheel_Select_Blink_11,3
+52607,Color_Wheel_Select_Blink_12,Color_Wheel_Select_Blink_12,3
+52611,Color_Wheel_Select_Blink_13,Color_Wheel_Select_Blink_13,3
+52613,Color_Wheel_Select_Blink_14,Color_Wheel_Select_Blink_14,3
+52615,Color_Wheel_Select_Blink_15,Color_Wheel_Select_Blink_15,3
+52617,Color_Wheel_Select_Blink_16,Color_Wheel_Select_Blink_16,3
+52619,Color_Wheel_Select_Blink_17,Color_Wheel_Select_Blink_17,3
+52621,Color_Wheel_Select_Blink_18,Color_Wheel_Select_Blink_18,3
+52623,Color_Wheel_Select_Blink_19,Color_Wheel_Select_Blink_19,3
 52609,Foreground_Color_Mix_2,Foreground_Color_Mix_2,3
 52610,Background_Color_Mix_2,Background_Color_Mix_2,3
+52624,Color_Select_8,Color_Select_8,3
+52625,Color_Select_9,Color_Select_9,3
+52626,Color_Select_10,Color_Select_10,3
+52627,Color_Select_11,Color_Select_11,3
+52628,Color_Select_12,Color_Select_12,3
+52629,Color_Select_13,Color_Select_13,3
+52630,Color_Select_14,Color_Select_14,3
+52631,Color_Select_15,Color_Select_15,3
+52632,Color_Select_16,Color_Select_16,3
+52633,Color_Select_17,Color_Select_17,3
+52634,Color_Select_18,Color_Select_18,3
+52635,Color_Select_19,Color_Select_19,3
+52636,Color_Wheel_Mode_8,Color_Wheel_Mode_8,3
+52637,Color_Wheel_Mode_9,Color_Wheel_Mode_9,3
+52638,Color_Wheel_Mode_10,Color_Wheel_Mode_10,3
+52639,Color_Wheel_Mode_11,Color_Wheel_Mode_11,3
+52640,Color_Wheel_Mode_12,Color_Wheel_Mode_12,3
+52641,Color_Wheel_Mode_13,Color_Wheel_Mode_13,3
+52642,Color_Wheel_Mode_14,Color_Wheel_Mode_14,3
+52643,Color_Wheel_Mode_15,Color_Wheel_Mode_15,3
+52644,Color_Wheel_Mode_16,Color_Wheel_Mode_16,3
+52645,Color_Wheel_Mode_17,Color_Wheel_Mode_17,3
+52646,Color_Wheel_Mode_18,Color_Wheel_Mode_18,3
+52647,Color_Wheel_Mode_19,Color_Wheel_Mode_19,3
+52664,Pixel_Mask_Index_Rotate_Mode,Pixel_Mask_Index_Rotate_Mode,4
+52665,Keystone_Macro,Keystone_Macro,5
+52666,Image_Position_Macro,Image_Position_Macro,5
+52667,Pixel_Mask_Effect_Stop_2,Pixel_Mask_Effect_Stop_2,4
+52668,Pixel_Mask_Index_Rotate_Mode_2,Pixel_Mask_Index_Rotate_Mode_2,4
 52912,Pan_Rotate_4,Pan_Rotate_4,2
 52913,Rotate_Mode_X_5,Rotate_Mode_X_5,5
 53243,Main_Intensity_4,Main_Intensity_4,1

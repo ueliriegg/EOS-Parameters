@@ -1,6 +1,6 @@
 # ETC-EOS Parameters
 
-A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.4 release, Fix-Lib 3.3.0.233_)
+A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.5 beta 17, Fix-Lib 3.3.0.236_)
 
 ## Overview
 
@@ -8,13 +8,13 @@ A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.4 release, Fix-L
 | ------------------ | -------------------------- | ---------------- | :----: |
 | 1                  |  Intensity                 |  375             | ✅ |
 | 2                  |  Focus                     |  185             | ✅ |
-| 3                  |  Color                     | 1680             | ✅ |
-| 4                  |  Image                     |  808             | ✅ |
-| 5                  |  Form                      | 1470             | ✅ |
+| 3                  |  Color                     | 1736             | ✅ |
+| 4                  |  Image                     |  811             | ✅ |
+| 5                  |  Form                      | 1474             | ✅ |
 | 6                  |  Shutter                   |  134             | ✅ |
 | 7                  |  Control                   |  144             | ✅ |
 |                    |                            |                  | |
-| Total              |                            | 4796             | ✅ |
+| Total              |                            | 4859             | ✅ |
 
 ## Examples
 
