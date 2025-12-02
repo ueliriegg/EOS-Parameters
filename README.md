@@ -1,26 +1,24 @@
 # ETC-EOS Parameters
 
-A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.1 release, Fix-Lib 3.3.0.191_)
+A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.4 release, Fix-Lib 3.3.0.233_)
 
 ## Overview
 
 | parameter_category | parameter_category_as_text | parameter_counts | status |
 | ------------------ | -------------------------- | ---------------- | :----: |
 | 1                  |  Intensity                 |  375             | ✅ |
-| 2                  |  Focus	                    |  178             | ✅ |
-| 3	                 |  Color	                    | 1679             | ✅ |
-| 4	                 |  Image	                    |  808             | ✅ |
-| 5	                 |  Form	                    | 1465             | ✅ |
-| 6	                 |  Shutter                   |  134             | ✅ |
-| 7	                 |  Control                   |	 144             | ✅ |
+| 2                  |  Focus                     |  185             | ✅ |
+| 3                  |  Color                     | 1680             | ✅ |
+| 4                  |  Image                     |  808             | ✅ |
+| 5                  |  Form                      | 1470             | ✅ |
+| 6                  |  Shutter                   |  134             | ✅ |
+| 7                  |  Control                   |  144             | ✅ |
+|                    |                            |                  | |
+| Total              |                            | 4796             | ✅ |
 
-Sum : 4783
+## Examples
 
-
-
-# Examples
-
-##  Preview: [eos_parameters.csv](eos_parameters.csv)
+### Preview: [eos_parameters.csv](eos_parameters.csv)
 
 |parameter_type|parameter_type_text_short|parameter_type_text_long|parameter_category|
 |--------------|-------------------------|------------------------|------------------|
@@ -33,10 +31,9 @@ Sum : 4783
 |7             |Hue                      |Hue                     |3                 |
 |8             |Saturation               |Saturation              |3                 |
 |9             |Cyan                     |Cyan                    |3                 |
+|...           |...                      |...                     |...               |
 
-
-
-## ASCII import
+### ASCII import
 
 ```txt
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -53,8 +50,6 @@ $ParamType            2 2 Pan
 $ParamType            3 2 Tilt
    $$ShortName            Tilt
 ```
-
-
 
 ```txt
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -93,17 +88,17 @@ $ParamType            3 2 Tilt
 !     $$Notes        Fixture notes text
 ```
 
-
----
-
+## Categories
 
 ```mermaid
 graph TD;
-  ALL --> Intensity;
-  ALL --> Focus;
-  ALL --> Color;
-  ALL --> Image;
-  ALL --> Shutter;
-  ALL --> Control;
-
+  ALL --> Reg[Regular channel parameters];
+  ALL --> LC[Lamp Controls]
+  Reg --> CatI([1:<br>Intensity]);
+  Reg --> CatF([2:<br>Focus]);
+  Reg --> CatC([3:<br>Color]);
+  Reg --> CatBI([4:<br>Beam<br>Image]);
+  Reg --> CatBF([5:<br>Beam<br>Form]);
+  Reg --> CatBS([6:<br>Beam<br>Shutter]);
+  LC --> CatLC([7:<br>Control]);
 ```
