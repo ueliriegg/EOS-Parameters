@@ -4179,38 +4179,38 @@ parameter_type,parameter_type_text_short,parameter_type_text_long,parameter_cate
 52589,Keystone_Macro_Rate,Keystone_Macro_Rate,5
 52590,CTO_3, CTO_3,3
 52591,CTO_4, CTO_4,3
+52592,Color_Wheel_Select_Blink_4,Color_Wheel_Select_Blink_4,3
 52593,CTO_5, CTO_5,3
+52594,Color_Wheel_Select_Blink_5,Color_Wheel_Select_Blink_5,3
 52595,CTO_6, CTO_6,3
+52596,Color_Wheel_Select_Blink_6,Color_Wheel_Select_Blink_6,3
 52597,CTO_7, CTO_7,3
 52598,CTO_8, CTO_8,3
-52600,CTO_9, CTO_9,3
-52602,CTO_10, CTO_10,3
-52604,CTO_11, CTO_11,3
-52606,CTO_12, CTO_12,3
-52608,CTO_13, CTO_13,3
-52612,CTO_14, CTO_14,3
-52614,CTO_15, CTO_15,3
-52616,CTO_16, CTO_16,3
-52618,CTO_17, CTO_17,3
-52620,CTO_18, CTO_18,3
-52622,CTO_19, CTO_19,3
-52592,Color_Wheel_Select_Blink_4,Color_Wheel_Select_Blink_4,3
-52594,Color_Wheel_Select_Blink_5,Color_Wheel_Select_Blink_5,3
-52596,Color_Wheel_Select_Blink_6,Color_Wheel_Select_Blink_6,3
 52599,Color_Wheel_Select_Blink_8,Color_Wheel_Select_Blink_8,3
+52600,CTO_9, CTO_9,3
 52601,Color_Wheel_Select_Blink_9,Color_Wheel_Select_Blink_9,3
+52602,CTO_10, CTO_10,3
 52603,Color_Wheel_Select_Blink_10,Color_Wheel_Select_Blink_10,3
+52604,CTO_11, CTO_11,3
 52605,Color_Wheel_Select_Blink_11,Color_Wheel_Select_Blink_11,3
+52606,CTO_12, CTO_12,3
 52607,Color_Wheel_Select_Blink_12,Color_Wheel_Select_Blink_12,3
-52611,Color_Wheel_Select_Blink_13,Color_Wheel_Select_Blink_13,3
-52613,Color_Wheel_Select_Blink_14,Color_Wheel_Select_Blink_14,3
-52615,Color_Wheel_Select_Blink_15,Color_Wheel_Select_Blink_15,3
-52617,Color_Wheel_Select_Blink_16,Color_Wheel_Select_Blink_16,3
-52619,Color_Wheel_Select_Blink_17,Color_Wheel_Select_Blink_17,3
-52621,Color_Wheel_Select_Blink_18,Color_Wheel_Select_Blink_18,3
-52623,Color_Wheel_Select_Blink_19,Color_Wheel_Select_Blink_19,3
+52608,CTO_13, CTO_13,3
 52609,Foreground_Color_Mix_2,Foreground_Color_Mix_2,3
 52610,Background_Color_Mix_2,Background_Color_Mix_2,3
+52611,Color_Wheel_Select_Blink_13,Color_Wheel_Select_Blink_13,3
+52612,CTO_14, CTO_14,3
+52613,Color_Wheel_Select_Blink_14,Color_Wheel_Select_Blink_14,3
+52614,CTO_15, CTO_15,3
+52615,Color_Wheel_Select_Blink_15,Color_Wheel_Select_Blink_15,3
+52616,CTO_16, CTO_16,3
+52617,Color_Wheel_Select_Blink_16,Color_Wheel_Select_Blink_16,3
+52618,CTO_17, CTO_17,3
+52619,Color_Wheel_Select_Blink_17,Color_Wheel_Select_Blink_17,3
+52620,CTO_18, CTO_18,3
+52621,Color_Wheel_Select_Blink_18,Color_Wheel_Select_Blink_18,3
+52622,CTO_19, CTO_19,3
+52623,Color_Wheel_Select_Blink_19,Color_Wheel_Select_Blink_19,3
 52624,Color_Select_8,Color_Select_8,3
 52625,Color_Select_9,Color_Select_9,3
 52626,Color_Select_10,Color_Select_10,3
@@ -4240,6 +4240,16 @@ parameter_type,parameter_type_text_short,parameter_type_text_long,parameter_cate
 52666,Image_Position_Macro,Image_Position_Macro,5
 52667,Pixel_Mask_Effect_Stop_2,Pixel_Mask_Effect_Stop_2,4
 52668,Pixel_Mask_Index_Rotate_Mode_2,Pixel_Mask_Index_Rotate_Mode_2,4
+52669,Display_Invert,Display_Invert,7
+52670,Pixel_Mask_Crossfade_Type_2,Pixel_Mask_Crossfade_Type_2,4
+52671,Strobe_Delay_2,Strobe_Delay_2,5
+52672,Strobe_Delay_3,Strobe_Delay_3,5
+52673,Strobe_Delay_4,Strobe_Delay_4,5
+52674,Strobe_Delay_5,Strobe_Delay_5,5
+52675,Strobe_Mode_5,Strobe_Mode_5,5
+52676,Strobe_Delay_6,Strobe_Delay_6,5
+52677,Strobe_Mode_6,Strobe_Mode_6,5
+52678,Mode_5,Mode_5,5
 52912,Pan_Rotate_4,Pan_Rotate_4,2
 52913,Rotate_Mode_X_5,Rotate_Mode_X_5,5
 53243,Main_Intensity_4,Main_Intensity_4,1
