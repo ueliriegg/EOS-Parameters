@@ -1,6 +1,6 @@
 # ETC-EOS Parameters
 
-A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.5 beta 57, Fix-Lib 3.3.5.2_)
+A collection of ETC EOS fixture parameters. (_Versions: Eos 3.3.5, Fix-Lib 3.3.5.2_)
 
 ## Overview
 
